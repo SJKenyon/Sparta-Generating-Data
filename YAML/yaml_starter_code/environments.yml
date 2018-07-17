@@ -1,0 +1,5 @@
+# This creates a hash with a nexted hash
+production: prod1
+Staging:
+ - stage1
+ - stage2
